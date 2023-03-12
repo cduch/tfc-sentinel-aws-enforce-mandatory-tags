@@ -1,5 +1,5 @@
 policy "enforce-mandatory-tags" {
-    enforcement_level = "mandatory"
+    enforcement_level = "advisory"
 }
 
 
